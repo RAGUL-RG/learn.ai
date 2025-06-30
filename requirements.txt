@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic
+PyMuPDF
+sentence-transformers
+numpy
+scikit-learn
+gtts
+googletrans==4.0.0rc1
